@@ -1,5 +1,2 @@
-this is new product here 1
-this is new product here 2
-this is new product here 3
-this is new product here 4
-this is new product here 5
+this is my first time
+string from append mode
